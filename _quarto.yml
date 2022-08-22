@@ -1,0 +1,38 @@
+ipynb-filters: [nbdev_filter]
+
+project:
+  type: website
+  output-dir: _docs
+  preview:
+    port: 3000
+    browser: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 4
+
+website:
+  title: "nbdev2-hello-world"
+  site-url: "https://fmussari.github.io/nbdev2-hello-world"
+  description: "From https://nbdev.fast.ai/01_Tutorials/tutorial.html"
+  twitter-card: true
+  open-graph: true
+  reader-mode: true
+  repo-branch: master
+  repo-url: "https://github.com/fmussari/nbdev2-hello-world"
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    search: true
+    right:
+      - icon: github
+        href: "https://github.com/fmussari/nbdev2-hello-world"
+  sidebar:
+    style: "floating"
+
+metadata-files: 
+  - sidebar.yml
+  - custom.yml
