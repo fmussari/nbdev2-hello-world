@@ -14,6 +14,7 @@ documentation.
 3.  Repo: [fastai / nbdev](https://github.com/fastai/nbdev)
 4.  Fastai forum: [Nbdev v2
     launched](https://forums.fast.ai/t/nbdev-v2-launched/97821)
+5.  A local copy from nbdev docs: [01_tutorial](01_tutorial.ipynb)
 
 [Core](00_core.ipynb)
 
