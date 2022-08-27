@@ -1223,7 +1223,7 @@
     "```python\n",
     "    \"Say hello to `to` using `say_hello`\"\n",
     "```\n",
-    "These are automatically converted to hyperlinks wherever possible. For instance, here are hyperlinks to `HelloSayer` and `say_hello` created using backticks."
+    "These are automatically converted to hyperlinks wherever possible. For instance, here are hyperlinks to **HelloSayer** and **say_hello** created using backticks. (FM: Quité los backsticks a ver si mantiene los del notebook core)"
    ]
   },
   {
