@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev2-hello-world",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "nbdev2-hello-world",
+    "section": "References",
+    "text": "References\n\nYoutube: nbdev tutorial – zero to published project in 90 minutes\nTutorial: nbdev tutorial\nRepo: fastai / nbdev\nFastai forum: Nbdev v2 launched\nA local copy from nbdev docs: 01_tutorial\n\nCore"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev2-hello-world",
+    "section": "Install",
+    "text": "Install\npip install nbdev2_hello_world"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev2-hello-world",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello(\"Isaac\")\n\n'Hello Isaac!'\n\n\n\nassert say_hello(\"Hamel\")==\"Hello Hamel!\"\n\n\ntest_eq(say_hello(\"Hamel\"), \"Hello Hamel!\")\n\n\ndisplay(SVG('<svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"40\"/></svg>'))\n\n\n\n\n\nsource\n\n\nHelloSayer\n\n HelloSayer (to)\n\nSay hello to to using say_hello\n\nsource\n\n\nHelloSayer.say\n\n HelloSayer.say ()\n\nDo the saying\n\no = HelloSayer(\"Alexis\")\no.say()\n\n'Hello Alexis!'\n\n\n\"Say hello to `to` using `say_hello`\"\nThese are automatically converted to hyperlinks wherever possible. For instance, here are hyperlinks to HelloSayer and say_hello created using backticks."
+  }
+]
